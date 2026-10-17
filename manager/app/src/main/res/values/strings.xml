@@ -76,7 +76,7 @@
     <string name="show_system_apps">Show system apps</string>
     <string name="send_log">Send logs</string>
     <string name="safe_mode">Safe mode</string>
-    <string name="jailbreak_mode">ujjwalmode mode</string>
+    <string name="jailbreak_mode">ujjwal mode</string>
     <string name="home_jailbreak">ujjwal mode</string>
     <string name="jailbreak_timeout">ujjwal may have failed, please check logs</string>
     <string name="safe_mode_module_disabled">Module installation is disabled in safe mode</string>
